@@ -1,0 +1,18 @@
+.background-photo {
+    height: 730px;
+    width: 1500px;
+}
+.tagline {
+    position: absolute;
+    bottom: 680px;
+    left: 600px;
+    font-size: 24px;
+    font-weight: bold;
+}
+.brand-name {
+    position: absolute;
+    bottom: 550px;
+    left: 690px;
+    font-size: 55px;
+    font-weight: bold;
+}
