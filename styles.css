@@ -35,3 +35,8 @@
     width: auto;
     border-radius: 6px;
 }
+.details-button {
+    position: absolute;
+    top: 710px;
+    left: 1340px; 
+}
